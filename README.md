@@ -15,8 +15,9 @@ open http://localhost:3000
 Try the [demo](https://minesweeperjest-3s76qciij.now.sh):
 
 * Mine sweeper game rules
+* Timer
 * Reset
 * Change board size
-* High scores 
+* High scores (sorted by board size and time spent)
 
 
