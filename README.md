@@ -10,11 +10,13 @@ yarn dev
 open http://localhost:3000
 ```
 
-## Rules
+## Features Included
 
-The rules are pretty simple (try to play with the [demo](https://sweeper.now.sh/)):
+Try the [demo](https://minesweeperjest-3s76qciij.now.sh):
 
-* Player can left click to reveal square.
-* Player can right click to flag square as mine.
-* The number tells how many mines are in the immediate neighborhood.
-* The goal is to reveal or flag all squares without revealing a mine.
+* Mine sweeper game rules
+* Reset
+* Change board size
+* High scores 
+
+
