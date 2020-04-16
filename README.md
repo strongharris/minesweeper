@@ -2,7 +2,7 @@
 
 ## Installation
 
-It assumes you have the latest node and yarn installed.
+Pre-Req: latest node and yarn installed.
 
 ```
 yarn install
